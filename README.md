@@ -1,2 +1,19 @@
-# Counter-Program
-This is a simple counter program implemented using HTML, CSS, and JavaScript. It displays a counter on a web page and allows users to increment or decrement the count with interactive buttons.
+# Counter Program
+
+A simple counter program built using HTML, CSS, and JavaScript. This program allows users to increment, decrement, and reset the counter value.
+
+## Features
+
+- Increment the counter value
+- Decrement the counter value
+- Reset the counter to zero
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Installation
+
+
